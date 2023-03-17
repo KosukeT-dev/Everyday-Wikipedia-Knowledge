@@ -8,12 +8,17 @@ header {
 
 h2, p {
   font-family: 'Nunito', sans-serif;
+  color: #333;
+}
+
+p.description {
+  color: #4285f4;
 }
 
 button {
   font-family: 'Nunito', sans-serif;
   color: #fff;
-  background-color: #000;
+  background-color: #333;
   border: none;
   border-radius: 3px;
   height: 30px;
